@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner_2</string>
+
+    <string name="seleccion">Selecciona Tu Fruta</string>
+
+        <string-array name="frutas_opciones">
+            <item>Manzana</item>
+            <item>Sandia</item>
+            <item>Platano</item>
+            <item>Kiwi</item>
+            <item>Mandarina</item>
+        </string-array>
+
+</resources>
